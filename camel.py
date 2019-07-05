@@ -1,2 +1,2 @@
-dil=input()
-print(dil.title())
+saaho=input()
+print(saaho.title())
